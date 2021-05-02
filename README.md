@@ -24,7 +24,7 @@ The screen has four colored buttons, each producing a particular tone when it is
 
 ### Screenshot
 
-![](./images/StatsPreviewCard-min.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
