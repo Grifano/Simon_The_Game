@@ -29,7 +29,7 @@ The screen has four colored buttons, each producing a particular tone when it is
 ### Links
 
 - About the game: [The Simon Game](https://en.wikipedia.org/wiki/Simon_(game)#Gameplay)
-- Live Site URL: [Live](https://grifano.github.io/FrontendMentor__StatsPreviewCard/)
+- Live Site URL: [Live](https://grifano.github.io/simon/)
 
 ## My process
 
