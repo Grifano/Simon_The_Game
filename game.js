@@ -25,7 +25,13 @@ $(document).keypress(function (e) {
 		});
 	}
 });
-
+// Start a game on mobile devices and touch screens
+document.addEventListener('touchstart', function (event) {
+	if (!started) {
+		nextSequence();
+		started = true //?
+	}
+});
 
 // 1. Create a new function called checkAnswer(), it should take one input with the name currentLevel
 function checkAnswer(currentLevel) {
